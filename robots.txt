@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /categories/
+Sitemap: https://www.henjinet.com/baidusitemap.xml
